@@ -13,19 +13,19 @@ for a in audiostreams:
 
 b = int(raw_input("Choose from above format. Enter from 1-5: "))
 if b == 1:
-    audiostreams[0].download(filepath="/home/usama/Desktop")
+    audiostreams[0].download()
     print("Download Complete!")
 elif b == 2:
-    audiostreams[1].download(filepath="/home/usama/Desktop")
+    audiostreams[1].download()
     print("Download Complete!")
 elif b == 3:
-    audiostreams[2].download(filepath="/home/usama/Desktop")
+    audiostreams[2].download()
     print("Download Complete!")
 elif b == 4:
-    audiostreams[3].download(filepath="/home/usama/Desktop")
+    audiostreams[3].download()
     print("Download Complete!")
 elif b == 5:
-    audiostreams[4].download(filepath="/home/usama/Desktop")
+    audiostreams[4].download()
     print("Download Complete!")
 else:
     print("Wrong input!")
