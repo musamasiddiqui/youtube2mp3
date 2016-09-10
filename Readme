@@ -1,0 +1,10 @@
+This is a simple script to download video from YouTube in your favorite audio format. We are using Python's third-party module "Pafy". 
+You need to install Pafy on your system in order to successfully run this script. To install Pafy see the official installation guide here:
+
+https://github.com/mps-youtube/pafy#installation
+
+
+Gracias!!
+
+
+
